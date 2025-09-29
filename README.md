@@ -2,9 +2,7 @@
 This project implements a Convolutional Neural Network (CNN) for detecting pests and diseases in plant images. The model is trained to classify images into different categories of plant diseases and pest infestations.
 
 
-# Pest and Disease Detection in Plants Using CNN
 
-This project implements a Convolutional Neural Network (CNN) for detecting pests and diseases in plants using image classification. The model is trained to identify different types of plant conditions using TensorFlow and Keras.
 
 ## Project Overview
 
